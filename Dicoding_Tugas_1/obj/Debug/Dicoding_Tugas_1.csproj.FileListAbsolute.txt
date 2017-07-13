@@ -1,0 +1,34 @@
+D:\Personal\OnlineCourse\Dicoding\Xamarin Cross Platform\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\bin\Debug\Dicoding_Tugas_1.dll
+D:\Personal\OnlineCourse\Dicoding\Xamarin Cross Platform\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\bin\Debug\Dicoding_Tugas_1.pdb
+D:\Personal\OnlineCourse\Dicoding\Xamarin Cross Platform\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\bin\Debug\Xamarin.Forms.Core.dll
+D:\Personal\OnlineCourse\Dicoding\Xamarin Cross Platform\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Personal\OnlineCourse\Dicoding\Xamarin Cross Platform\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Personal\OnlineCourse\Dicoding\Xamarin Cross Platform\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Personal\OnlineCourse\Dicoding\Xamarin Cross Platform\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\bin\Debug\Xamarin.Forms.Core.xml
+D:\Personal\OnlineCourse\Dicoding\Xamarin Cross Platform\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Personal\OnlineCourse\Dicoding\Xamarin Cross Platform\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Personal\OnlineCourse\Dicoding\Xamarin Cross Platform\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Personal\OnlineCourse\Dicoding\Xamarin Cross Platform\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\obj\Debug\Dicoding_Tugas_1.csprojResolveAssemblyReference.cache
+D:\Personal\OnlineCourse\Dicoding\Xamarin Cross Platform\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\obj\Debug\Dicoding_Tugas_1.MainPage.xaml.g.cs
+D:\Personal\OnlineCourse\Dicoding\Xamarin Cross Platform\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\obj\Debug\Dicoding_Tugas_1.App.xaml.g.cs
+D:\Personal\OnlineCourse\Dicoding\Xamarin Cross Platform\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\obj\Debug\Dicoding_Tugas_1.BrochaPage.xaml.g.cs
+D:\Personal\OnlineCourse\Dicoding\Xamarin Cross Platform\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\obj\Debug\Dicoding_Tugas_1.dll
+D:\Personal\OnlineCourse\Dicoding\Xamarin Cross Platform\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\obj\Debug\Dicoding_Tugas_1.pdb
+D:\Personal\OnlineCourse\Dicoding\Xamarin Cross Platform\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\obj\Debug\Dicoding_Tugas_1.dll.mdb
+D:\Personal\OnlineCourse\Dicoding\Xamarin Cross Platform\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\bin\Debug\Dicoding_Tugas_1.dll.mdb
+D:\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\bin\Debug\Dicoding_Tugas_1.dll
+D:\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\bin\Debug\Dicoding_Tugas_1.pdb
+D:\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\bin\Debug\Xamarin.Forms.Core.dll
+D:\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\bin\Debug\Xamarin.Forms.Core.xml
+D:\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\obj\Debug\Dicoding_Tugas_1.csprojResolveAssemblyReference.cache
+D:\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\obj\Debug\Dicoding_Tugas_1.MainPage.xaml.g.cs
+D:\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\obj\Debug\Dicoding_Tugas_1.App.xaml.g.cs
+D:\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\obj\Debug\Dicoding_Tugas_1.BrochaPage.xaml.g.cs
+D:\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\obj\Debug\Dicoding_Tugas_1.dll
+D:\Tugas1\Dicoding_Tugas_1\Dicoding_Tugas_1\Dicoding_Tugas_1\obj\Debug\Dicoding_Tugas_1.pdb
